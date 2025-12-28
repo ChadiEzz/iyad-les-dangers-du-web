@@ -1,0 +1,1 @@
+## Cliquez simplement sur index.html et l'ouvrir à l'aide de votre navigateur préféré !
